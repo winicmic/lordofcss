@@ -1,0 +1,25 @@
+body{
+  background:azure;
+}
+
+header{
+  text-align:center;
+  font-family: 'PT Sans Narrow', sans-serif;
+  color: black;
+  
+}
+
+article{
+text-align: center;
+background-image: linear-gradient( rgb(130, 20, 35), rgb(120, 60, 89));
+color: white;
+border: solid black 3px;
+font-family: 'Noto Sans TC', sans-serif;
+}
+
+
+h2{
+  text-align: center;
+  padding:10%;
+}
+
